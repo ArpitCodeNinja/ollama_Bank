@@ -317,27 +317,6 @@ Contributions are welcome! Here's how:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- [Ollama](https://ollama.ai/) for providing excellent local LLM support
-- [Streamlit](https://streamlit.io/) for the amazing web framework
-- All contributors and users of this project
-
----
-
-## 📞 Contact
-
-- **Project Link**: [https://github.com/yourusername/bankrag](https://github.com/yourusername/bankrag)
-- **Issues**: [https://github.com/yourusername/bankrag/issues](https://github.com/yourusername/bankrag/issues)
-
----
-
 <div align="center">
 
 **Built with ❤️ using Python, Ollama, and Streamlit**
