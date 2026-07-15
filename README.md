@@ -15,7 +15,7 @@
 
 ## 📋 Overview
 
-**BankRAG** is a Retrieval-Augmented Generation demo application that combines **Ollama** (local LLM) with a **vector database** to create an intelligent banking knowledge assistant. The system answers user queries about banking by retrieving relevant information from a knowledge base and generating context-aware responses.
+**BankRAG** is a Retrieval-Augmented Generation (RAG) demo application that combines the power of Ollama (local LLM) with a vector database to create an intelligent banking knowledge assistant. The system can answer user queries about banking by retrieving relevant information from a banking knowledge base and generating context-aware responses.
 
 ### 🎯 Key Features
 
