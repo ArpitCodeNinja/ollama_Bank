@@ -1,4 +1,4 @@
-# 🏦 BankRAG - Banking Knowledge Assistant
+# 🏦 OllamaBank - Ollama-powered banking assistant
 
 <div align="center">
 
